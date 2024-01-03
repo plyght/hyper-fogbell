@@ -1,0 +1,21 @@
+{
+  "name": "hyper-fogbell",
+  "version": "1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plyght/hyper-fogbell.git"
+  },
+  "keywords": [],
+  "files": ["index.js"],
+  "author": "plyght",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plyght/hyper-fogbell/issues"
+  },
+  "homepage": "https://github.com/plyght/hyper-fogbell"
+}
